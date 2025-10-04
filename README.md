@@ -30,8 +30,11 @@ Tableau Desktop / Tableau Public
 Storytelling Feature (Urban vs Rural accident comparison)
 Interactive Charts: Donut, Lollipop, Bar, Line Charts
 Filters & Slicers for Vehicle Type, Location, Weather Condition
-Reference Lines & Trend Analysis
-<a herf="https://github.com/Rachana149/Road-Accident-Dashboard-in-Tableau/blob/main/Screenshot%202025-09-26%20225804.png") View dashboard</a>
+Reference Lines & Trend Analysis.
+
+#Interractive Dashboard
+<a herf="https://github.com/Rachana149/Road-Accident-Dashboard-in-Tableau/blob/main/Screenshot%202025-09-26%20225804.png")View dashboard</a>
+
 ![C:\Users\teana\Pictures\Screenshots]( https://github.com/Rachana149/Road-Accident-Dashboard-in-Tableau/blob/main/Screenshot%202025-09-26%20225804.png)
 
 ✅ Conclusion
