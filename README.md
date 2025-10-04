@@ -31,6 +31,8 @@ Storytelling Feature (Urban vs Rural accident comparison)
 Interactive Charts: Donut, Lollipop, Bar, Line Charts
 Filters & Slicers for Vehicle Type, Location, Weather Condition
 Reference Lines & Trend Analysis
+<a herf=”https://github.com/Rachana149/Road-Accident-Dashboard-in-Tableau/blob/main/Screenshot%202025-09-26%20225804.png”> View Dashboard</a>
+![C:\Users\teana\Pictures\Screenshots]( https://github.com/Rachana149/Road-Accident-Dashboard-in-Tableau/blob/main/Screenshot%202025-09-26%20225804.png)
 
 ✅ Conclusion
 The Road Accidents Dashboard provides clear and actionable insights into accident trends, helping to identify critical risk factors. It is a powerful tool for road safety authorities, policymakers, and researchers aiming to reduce accident severity and improve public safety.
